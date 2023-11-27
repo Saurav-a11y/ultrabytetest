@@ -1,0 +1,12 @@
+.navbar {
+  .item {
+    &.active {
+      .nav-link {
+        color: rgba(207, 149, 86, 0.8);
+      }
+    }
+    .nav-link {
+      color: #212529;
+    }
+  }
+}

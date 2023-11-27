@@ -1,0 +1,10 @@
+.button-component {
+  border: 0;
+  &.primary {
+    background-color: rgba(207, 149, 86, 0.8);
+  }
+  &.secondary {
+    background-color: #fff;
+    color: #212529;
+  }
+}
